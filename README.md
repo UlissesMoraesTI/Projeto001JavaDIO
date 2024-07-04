@@ -4,7 +4,7 @@ Java DIO - Bootcamp
 
 <h1>   
      <img align="center" width="40px">
-    <span> Comandos CSS3 - Treinamento Java BackEnd Developer</span>
+    <span> Java BackEnd Developer</span>
 </h1>
 
 ## Ferramentas
